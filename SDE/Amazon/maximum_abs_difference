@@ -1,0 +1,12 @@
+class Solution:
+    # @param A : list of integers
+    # @return an integer
+    def maxArr(self, A):
+        c = []
+        for i in range(len(A)):
+            for j in range(len(A)):
+                    if(1<=i and j<=len(A)):
+                        a = abs(A[i] - A[j]) + abs(i - j)
+                        c.append(a) 
+        d = max(c)
+        return d
