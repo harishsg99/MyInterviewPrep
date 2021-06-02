@@ -13,6 +13,8 @@
 |Find Largest possible String | O(nlogn) | Amazon |
 |Sort Array Wave | O(n) | Amazon |
 |Missing and repeating | O(n) | Amazon |
+|Maximum unsorted array | O(n) | Amazon |
+
 
 
 
