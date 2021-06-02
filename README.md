@@ -1,15 +1,15 @@
 # MyInterviewPrep
 ## this repo contains My SDE(leetcode) and PM (product manager interview solutions)
 
-# Plan for SDE
+# Problems I am practicing for SDE interview 
 
 | Days |  Problem  | Complexity | Company |
 |:-----|:--------:|------:|------:|
 | 1  | Matrix rotate | O(n^2) | Amazon |
-| 2  | Find duplicate elements | O(n) | Amazon |
+| 1  | Find duplicate elements | O(n) | Amazon |
 
 
-# Plan for PM
+# Problems I am practicing for PM interview 
 
 | Days |  Problem  |  Company |
 |:-----|:--------:|------:|
