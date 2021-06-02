@@ -1,0 +1,9 @@
+class Solution:
+
+    def repeatedNumber(self, A):
+        A.sort()
+        for i in range(len(A)):
+            if(A[i]+1!=i+1 and A[i]==A[i+1]):
+        
+        return i+1,A[i]
+            
