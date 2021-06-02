@@ -2,6 +2,6 @@
 ## this repo contains My SDE(leetcode) and PM (product manager interview solutions)
 
 # Plan for SDE
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+Day | Topic | language | Question | Complexity
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+1 | Array | Python | Rotate Array | O(n^2)
