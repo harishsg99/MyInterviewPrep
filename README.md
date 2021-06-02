@@ -1,14 +1,14 @@
 # MyInterviewPrep
 ## this repo contains My SDE(leetcode) and PM (product manager interview prep solutions)
 
-# Problems I am practicing for SDE interview 
+# Problems I am practicing for SDE interview Day1
 
-| Days |  Problem  | Complexity | Company |
-|:-----|:--------:|------:|------:|
-| 1  | Matrix rotate | O(n^2) | Amazon |
-| 1  | Find duplicate elements | O(n) | Amazon |
-| 1  | Maximum absolute differnce | O(n^2) | Amazon |
-| 1  | Find Smallest missing positive number | O(n^2) | Amazon |
+|  Problem  | Complexity | Company |
+|:--------:|------:|------:|
+|Matrix rotate | O(n^2) | Amazon |
+|Find duplicate elements | O(n) | Amazon |
+|Maximum absolute differnce | O(n^2) | Amazon |
+|Find Smallest missing positive number | O(n^2) | Amazon |
 
 
 
