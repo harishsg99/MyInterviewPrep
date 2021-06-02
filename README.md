@@ -6,3 +6,10 @@
 | Days |  Problem  | Complexity | Company |
 |:-----|:--------:|------:|------:|
 | 1  | Matrix rotate | O(n^2) | Amazon |
+
+
+# Plan for PM
+
+| Days |  Problem  |  Company |
+|:-----|:--------:|------:|
+| 1  | Matrix rotate |  Amazon |
