@@ -6,6 +6,7 @@
 | Days |  Problem  | Complexity | Company |
 |:-----|:--------:|------:|------:|
 | 1  | Matrix rotate | O(n^2) | Amazon |
+| 2  | Find duplicate elements | O(n) | Amazon |
 
 
 # Plan for PM
