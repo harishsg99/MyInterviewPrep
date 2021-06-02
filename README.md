@@ -3,7 +3,6 @@
 
 # Plan for SDE
 
-| First Header  | Second Header | First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Days |  Problem  | Complexity |
+|:-----|:--------:|------:|
+| 1  | Matrix rotate | O(n^2) |
