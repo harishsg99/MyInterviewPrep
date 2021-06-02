@@ -9,6 +9,7 @@
 |Find duplicate elements | O(n) | Amazon |
 |Maximum absolute differnce | O(n^2) | Amazon |
 |Find Smallest missing positive number | O(n^2) | Amazon |
+|Find Max distance | O(n^2) | Amazon |
 
 
 
