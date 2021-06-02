@@ -7,6 +7,8 @@
 |:-----|:--------:|------:|------:|
 | 1  | Matrix rotate | O(n^2) | Amazon |
 | 1  | Find duplicate elements | O(n) | Amazon |
+| 1  | Maximum absolute differnce | O(n^2) | Amazon |
+
 
 
 # Problems I am practicing for PM interview 
