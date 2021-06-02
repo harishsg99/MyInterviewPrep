@@ -14,7 +14,7 @@
 |Sort Array Wave | O(n) | Amazon |
 |Missing and repeating | O(n) | Amazon |
 |Maximum unsorted array | O(n^2) | Amazon |
-
+|Implement StrStr | O(n^2) | Amazon |
 
 
 
