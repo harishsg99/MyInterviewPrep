@@ -16,6 +16,7 @@
 |Maximum unsorted array | O(n^2) | Amazon |
 |Implement StrStr | O(n) | Amazon |
 |Implement Length of last word | O(n) | Amazon |
+|Atoi | O(n) | Amazon |
 
 
 
