@@ -3,6 +3,6 @@
 
 # Plan for SDE
 
-| Days |  Problem  | Complexity |
-|:-----|:--------:|------:|
-| 1  | Matrix rotate | O(n^2) |
+| Days |  Problem  | Complexity | Company |
+|:-----|:--------:|------:|------:|
+| 1  | Matrix rotate | O(n^2) | Amazon |
