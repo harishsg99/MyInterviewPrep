@@ -1,7 +1,7 @@
 # MyInterviewPrep
 ## this repo contains My SDE(leetcode) and PM (product manager interview prep solutions)
 
-# Problems I am practicing for SDE interview Day1
+# Problems I am practicing for SDE interview Day 1
 
 |  Problem  | Complexity | Company |
 |:--------:|------:|------:|
