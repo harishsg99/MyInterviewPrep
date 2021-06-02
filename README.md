@@ -12,4 +12,4 @@
 
 | Days |  Problem  |  Company |
 |:-----|:--------:|------:|
-| 1  | Matrix rotate |  Amazon |
+| 1  | Improve Google maps | Google |
