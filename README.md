@@ -22,7 +22,7 @@
 
 |  Problem  | Complexity | Company |
 |:--------:|------:|------:|
-|Matrix rotate | O(n^2) | Amazon |
+|Spiral Matrix 2 | O(n^2) | Amazon |
 
 
 
