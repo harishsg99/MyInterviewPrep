@@ -18,6 +18,13 @@
 |Implement Length of last word | O(n) | Amazon |
 |Atoi | O(n) | Amazon |
 
+# Problems I am practicing for SDE interview Day 2
+
+|  Problem  | Complexity | Company |
+|:--------:|------:|------:|
+|Matrix rotate | O(n^2) | Amazon |
+
+
 
 
 
