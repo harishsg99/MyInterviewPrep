@@ -23,6 +23,8 @@
 |  Problem  | Complexity | Company |
 |:--------:|------:|------:|
 |Spiral Matrix 2 | O(n^2) | Amazon |
+|Valid IP | O(n^3) | Amazon |
+
 
 
 
