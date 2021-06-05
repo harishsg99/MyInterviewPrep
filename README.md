@@ -32,7 +32,7 @@
 
 
 # Problems I am practicing for SDE interview Day 3
-
+|:--------:|------:|------:|
 |Remove duplicates| O(n^2) | Amazon |
 
 
