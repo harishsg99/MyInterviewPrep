@@ -28,6 +28,8 @@
 |Compare version numbers | O(n^2) | Amazon |
 |Check power of 2 | O(n) | Amazon |
 |Sqrt| O(n^2) | Amazon |
+|Remove duplicates| O(n^2) | Amazon |
+
 
 
 
