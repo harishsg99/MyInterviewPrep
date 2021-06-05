@@ -34,7 +34,7 @@
 # Problems I am practicing for SDE interview Day 3
 | Days |  Problem  |  Company |
 |:--------:|------:|------:|
-|Remove duplicates| O(n^2) | Amazon |
+|Remove duplicates| O(n) | Amazon |
 
 
 
