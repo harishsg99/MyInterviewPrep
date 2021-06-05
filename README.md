@@ -28,6 +28,11 @@
 |Compare version numbers | O(n^2) | Amazon |
 |Check power of 2 | O(n) | Amazon |
 |Sqrt| O(n^2) | Amazon |
+
+
+
+# Problems I am practicing for SDE interview Day 3
+
 |Remove duplicates| O(n^2) | Amazon |
 
 
