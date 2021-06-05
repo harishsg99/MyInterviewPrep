@@ -38,6 +38,7 @@
 |Remove Elements from Array| O(n) | Amazon |
 |Pair difference| O(n^2) | Amazon |
 |Maximum ones after modification| O(n) | Amazon |
+|Rotate linkedlist| O(n) | Amazon |
 
 
 
