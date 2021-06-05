@@ -36,6 +36,7 @@
 |:--------:|------:|------:|
 |Remove duplicates| O(n) | Amazon |
 |Remove Elements from Array| O(n) | Amazon |
+|Pair difference| O(n^2) | Amazon |
 
 
 
