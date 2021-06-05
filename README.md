@@ -32,7 +32,7 @@
 
 
 # Problems I am practicing for SDE interview Day 3
-| Days |  Problem  |  Company |
+|Problem |  Complexity  |  Company |
 |:--------:|------:|------:|
 |Remove duplicates| O(n) | Amazon |
 |Remove Elements from Array| O(n) | Amazon |
