@@ -35,6 +35,8 @@
 | Days |  Problem  |  Company |
 |:--------:|------:|------:|
 |Remove duplicates| O(n) | Amazon |
+|Remove Elements from Array| O(n) | Amazon |
+
 
 
 
